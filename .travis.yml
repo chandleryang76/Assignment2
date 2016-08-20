@@ -11,8 +11,8 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: "c2471f4b-ebb1-41a5-b8d5-487f86458829"
-  app: travisrails
+    secure: "55514ac9-a109-47bc-8c37-d826088bf96e"
+  app: sdm2016friends
   on:
       all_branches: true
 
